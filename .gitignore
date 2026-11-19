@@ -1,0 +1,27 @@
+# Experiment source files are versioned; generated outputs are ignored below.
+.ipynb_checkpoints
+__pycache__/
+*.py[cod]
+.codex
+
+# Build artifacts
+/build/
+/build-legacy/
+/runs/*
+
+# Generated experiment outputs
+/experiments/**/args/
+/experiments/**/csvs/
+/experiments/**/logs/
+/experiments/**/models/
+/experiments/**/predictions/
+/experiments/**/stats/
+
+# Generated runtime data
+/tmp/
+
+# Editor and OS noise
+.DS_Store
+*.swp
+*.swo
+
