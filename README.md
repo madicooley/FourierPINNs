@@ -15,6 +15,8 @@ We develop an adaptive learning and basis selection algorithm via alternating ne
 This scheme can flexibly identify the significant frequencies while weakening the nominal frequencies to better capture the target solution's power spectrum.
 We show the advantage of our approach through a set of systematic experiments.
 
+[Open Review](https://openreview.net/forum?id=KqRnsEMYLx) [arXiv](https://arxiv.org/pdf/2410.03496)
+
 ## Contact
 
 For questions about this work, please email mcooley220 [at] gmail [dot] com.
